@@ -10,4 +10,4 @@ Apparently, Git can display pdf but NOT doc file.
 
 Regression on Wed, 04/22
 
-Correlation on Wed, 04/15
+Correlation on Wed, 04/15 (complete)
