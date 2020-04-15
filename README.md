@@ -7,5 +7,7 @@ I will also keep this readme as my homework check lists and notes.
 Apparently, Git can display pdf but NOT doc file.
 
 **next coming due**
+
 Regression on Wed, 04/22
+
 Correlation on Wed, 04/15
